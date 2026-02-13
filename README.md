@@ -36,7 +36,7 @@ Windows 7 在 2020 年 1 月结束支持，此后可以获得 3 年的扩展安�
 - KB4072650：Hyper-V Integration Components Update
 - KB4578847：Update for Application and Device Compatibility
 
-另外，我还整理了适用于 Windows 7 的软件包，包含：
+另外，我还整理了适用于 Windows 7 的软件合集，包含：
 - DirectX 9.0c End-User Runtime
 - Microsoft Camera Codec Pack
 - Microsoft Edge v109 (最后支持 Windows 7 的版本)
