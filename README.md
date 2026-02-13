@@ -14,7 +14,8 @@ Windows 7 在 2020 年 1 月结束支持，此后可以获得 3 年的扩展安�
 - 13个可选功能更新：
   - Active Directory Lightweight Directory Services
   - DirectAccess Connectivity Assistant 2.0
-  - Embedded Lockdown Manager、File Management API Update
+  - Embedded Lockdown Manager
+  - File Management API Update
   - Microsoft Agent
   - NTBackup
   - Remote Server Administration Tools
