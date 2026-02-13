@@ -19,7 +19,8 @@ Windows 7 在 2020 年 1 月结束支持，此后可以获得 3 年的扩展安�
   - Microsoft Agent
   - NTBackup
   - Remote Server Administration Tools
-  - Windows Help、Windows Identity Foundation
+  - Windows Help
+  - Windows Identity Foundation
   - Windows Media Services Remote Server Administration Tools
   - Windows Server Essentials Connector
   - Windows Virtual PC
