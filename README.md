@@ -54,16 +54,16 @@ Windows 7 在 2020 年 1 月结束支持，此后可以获得 3 年的扩展安�
 
 1. 00_SSU-201903：以管理员身份运行 Update.cmd，安装 2019 年 3 月 服务堆栈更新。
 2. 01_Optional-Features：根据需要选择安装可选功能更新。注意：安装 AD LDS (KB975541) 后必须安装随附的 6 个更新，因为 SP2 不能正确地更新 AD LDS。详细分析见：http://windows-update-checker.com/FAQ/ConvenienceRollupKB3125574-Issues.htm
-4. 02_Updates1：以管理员身份运行 Update.cmd，安装第 1 组更新。
-5. 03_Updates2：以管理员身份运行 Update.cmd，安装第 2 组更新。
-6. 04_Remove-Old：以管理员身份运行 Remove_OLD.cmd，卸载 KB2534111 和 IE8。
+3. 02_Updates1：以管理员身份运行 Update.cmd，安装第 1 组更新。
+4. 03_Updates2：以管理员身份运行 Update.cmd，安装第 2 组更新。
+5. 04_Remove-Old：以管理员身份运行 Remove_OLD.cmd，卸载 KB2534111 和 IE8。
    
 在进行以下步骤之前，请确保设备已获得有效的 ESU 许可。
 
-7. 05_Updates3：以管理员身份运行 Update.cmd，安装第 3 组更新。
-8. 06_Convenience-Rollup：以管理员身份运行 Update.cmd，安装便利性汇总更新。
-9. 07_NDP48：安装 .Net Framework 4.8。
-10. 08_WMF51：以管理员身份运行 Update.cmd，安装 Windows Management Framework 5.1。
-11. 安装你喜欢的软件更新。提示：如果 Microsoft Security Essential 无法更新定义，可以运行 MicrosoftEasyFix51044 来解决。
+6. 05_Updates3：以管理员身份运行 Update.cmd，安装第 3 组更新。
+7. 06_Convenience-Rollup：以管理员身份运行 Update.cmd，安装便利性汇总更新。
+8. 07_NDP48：安装 .Net Framework 4.8。
+9. 08_WMF51：以管理员身份运行 Update.cmd，安装 Windows Management Framework 5.1。
+10. 安装你喜欢的软件更新。提示：如果 Microsoft Security Essential 无法更新定义，可以运行 MicrosoftEasyFix51044 来解决。
 
 感谢：[KUC Windows Update Checker](http://www.windows-update-checker.com/)
