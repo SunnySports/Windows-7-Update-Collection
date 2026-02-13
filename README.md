@@ -66,4 +66,11 @@ Windows 7 在 2020 年 1 月结束支持，此后可以获得 3 年的扩展安�
 9. 08_WMF51：以管理员身份运行 Update.cmd，安装 Windows Management Framework 5.1。
 10. 安装你喜欢的软件更新。提示：如果 Microsoft Security Essential 无法更新定义，可以运行 MicrosoftEasyFix51044 来解决。
 
+安装完更新合集后，Windows Update 可能会检查出以下更新：
+
+- KB4493132/KB4524752：Windows 7 停止支持通知
+- KB5001027：Microsoft Edge
+- KB890830：恶意软件删除工具
+- KB915597：Windows Defender 定义更新
+
 感谢：[KUC Windows Update Checker](http://www.windows-update-checker.com/)
