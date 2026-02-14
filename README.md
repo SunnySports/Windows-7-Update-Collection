@@ -5,7 +5,7 @@ Windows 7 在 2020 年 1 月结束支持，此后可以获得 3 年的扩展安�
 
 所有的 ESU 更新现已结束，所以我整理了 Windows 7 的更新合集。
 
-这套合集适用于非英语版本的 Windows 7 SP1 全新安装 (2011 年原版光盘映像)。微软在 2019 年发布过英语版 Windows 7 的新版光盘映像，所以英语版不需要我这套合集里的许多更新。英语版本的 Windows 7 更新指南：https://hackandpwn.com/windows-7-esu-patching/
+这套合集适用于非英语版本的 Windows 7 SP1 全新安装 (2011 年原版光盘映像)。微软在 2019 年发布过英语版 Windows 7 的新版光盘映像，所以英语版不需要这套合集里的许多更新。英语版本的 Windows 7 更新指南：https://hackandpwn.com/windows-7-esu-patching/
 
 我想过把更新离线集成到系统映像中，但是部分更新是不能使用 DISM 离线集成的，必须在线安装才能正确生效。而且第三方提供的系统映像不能被轻易信任。所以我选择了更新合集的方式，这里面每个更新都有微软的数字签名。
 
@@ -36,7 +36,7 @@ Windows 7 在 2020 年 1 月结束支持，此后可以获得 3 年的扩展安�
 - KB4072650：Hyper-V Integration Components Update
 - KB4578847：Update for Application and Device Compatibility
 
-另外，我还整理了适用于 Windows 7 的软件合集，包含：
+另外，我还整理了适用于 Windows 7 的软件更新合集，包含：
 - DirectX 9.0c End-User Runtime
 - Microsoft Camera Codec Pack
 - Microsoft Edge v109 (最后支持 Windows 7 的版本)
